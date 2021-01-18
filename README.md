@@ -22,7 +22,7 @@ The GUIDANCE strength is based on the possibility of increasing the potential of
 
 ## Getting Started <a name="getstarted"></a>
 
-GUIDANCE was developed to run on HPC infrastructures and cloud environments. The instructions given here consider this execution in HPC environment. In order to run it in the cloud, specific instructions are given in this [project](https://github.com/ramonamela/guidance_cloud).
+GUIDANCE was developed to run on HPC infrastructures and cloud environments. The instructions given here consider this execution in HPC environment. In order to run it in the cloud, specific instructions are given in this [project] (https://github.com/ramonamela/guidance_cloud).
 
 These instructions will get you a copy of the project up and running on your machine. There are two main options to run GUIDANCE: directly on top of your OS and inside a [Singularity image](https://github.com/sylabs/singularity). We strongly recommend to use Singularity as it makes all the process much more easier.
 
